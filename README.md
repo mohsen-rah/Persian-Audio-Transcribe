@@ -60,9 +60,9 @@ Python 3.x
 ۱. مخزن را دانلود کنید.
 ۲. با اجرای دستور زیر در ترمینال، کتابخانه‌های مورد نیاز را نصب کنید:
 
+```
 pip install SpeechRecognition pydub python-docx colorama arabic-reshaper python-bidi
-
-
+```
 🛠 نحوه استفاده
 
 روش اول: اجرای آسان (پیشنهادی) ⚡
@@ -76,7 +76,9 @@ pip install SpeechRecognition pydub python-docx colorama arabic-reshaper python-
 ۲. فایل‌های صوتی را داخل آن بریزید.
 ۳. دستور زیر را اجرا کنید:
 
+```
 python transcribe.py
+```
 
 
 ❓ عیب‌یابی
